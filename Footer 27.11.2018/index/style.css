@@ -1,0 +1,126 @@
+#container
+{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#header
+{
+height: 600px;
+background-color: #0066CC;
+color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#about
+{
+float: left;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 22px;
+margin-top: 50px;
+margin-left: 123px;
+background-color: #003366;
+}
+
+.h1
+{
+font-family: Andale Mono, monospace;
+}
+
+.header1
+{
+color:  #0099FF;
+font-family: Andale Mono, monospace;
+}
+
+.n1
+{
+font-family: Andale Mono, monospace;
+font-size: 12px;
+}
+
+#recent
+{
+float: left;
+padding: 10px;
+margin-top: 50px;
+background-color: #003366;
+}
+
+#trump
+{
+align: left;
+weigth: 50px;
+height: 50px;
+}
+
+#zuckerberg
+{
+align: left;
+weigth: 50px;
+height: 50px;
+}
+
+#support
+{
+float: left;
+padding: 10px;
+margin-top: 50px;
+background-color: #003366;
+padding-bottom: 40px;
+}
+
+#search
+{
+float: left;
+padding: 10px;
+margin-top: 50px;
+background-color: #003366;
+padding-bottom: 30px;
+padding-right: 11px
+}
+
+#footer
+{
+clear: both;
+background-color: #000033;
+padding: 10px;
+margin-left: 123px;
+margin-right: 123px;
+}
+
+#tw
+{
+weigth: 25px;
+height: 25px;
+margin: 2px;
+padding: 2px;
+}
+
+#fb
+{
+weigth: 25px;
+height: 25px;
+margin: 2px;
+padding: 2px;
+}
+
+#gp
+{
+weigth: 25px;
+height: 25px;
+margin: 2px;
+padding: 2px;
+}
+
+#yt
+{
+weigth: 25px;
+height: 25px;
+margin: 2px;
+padding: 2px;
+}
